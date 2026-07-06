@@ -1,2 +1,2 @@
-# My-Python-Jrney
+# Python 25 Projects
 Learning Python programming Skills
