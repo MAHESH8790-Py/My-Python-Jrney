@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahesh (Mahi)
+# 👋 Hi, I'm MAHESHBABU DOPARTHI
 
 🎓 B.Tech CSE (AI) Student
 🐍 Python Developer (Beginner to Intermediate)
