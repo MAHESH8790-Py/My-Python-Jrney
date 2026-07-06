@@ -1,48 +1,75 @@
 # 👋 Hi, I'm MAHESHBABU DOPARTHI
 
-🎓 B.Tech CSE (AI) Student
- Python Developer (Beginner to Intermediate)
-💻 Passionate about Programming and Problem Solving
-🎯 Preparing for improving my coding skills
+## 🎓 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence)
+- 🏫 Annamacharya University, Rajampet
+- 🐍 Python Developer (Beginner to Intermediate)
+- 💻 Passionate about Programming and Problem Solving
+- 🚀 Building projects to improve my coding skills
+- 🎯 Preparing for SSC CHSL while learning Software Development
 
 ---
 
-## 🚀 Python Projects
+# 🚀 Python Projects
 
-- 📚 Library Management System
-- 👨‍🎓 Student Management System
-- 🏧 ATM Management System
-- 👨‍💼 Employee Management System
-- 📦 Inventory Management System
-- 🏥 Hospital Management System
-- 🎬 Movie Collection Management System
-- 🔐 Password Generator
-- 📞 Contact Book
-- 📝 Notes Manager
-- 🧮 Smart Calculator
-- 🎮 Number Guessing Game
-- 🧠 Quiz Game
-- 💰 Expense Tracker
-- 🎓 Student Grade Management System
+✔️ Library Management System  
+✔️ Student Management System  
+✔️ ATM Management System  
+✔️ Employee Management System  
+✔️ Inventory Management System  
+✔️ Hospital Management System  
+✔️ Movie Collection Management System  
+✔️ Password Generator  
+✔️ Contact Book  
+✔️ Notes Manager  
+✔️ Smart Calculator  
+✔️ Number Guessing Game  
+✔️ Quiz Game  
+✔️ Expense Tracker  
+✔️ Student Grade Management System  
 
-...and more.
+📌 Total Projects Completed: **25 Python Projects**
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Skills
 
 - Python
 - Git & GitHub
-- Problem Solving
 - File Handling
 - Exception Handling
 - Dictionaries
 - Functions
+- Loops & Conditions
+- Problem Solving
 
 ---
 
-## 🎯 Current Goal
+# 🎯 Current Goals
 
-Learning Python, improving my GitHub portfolio, and preparing for SSC CHSL.
+- 🐍 Strengthen Python Programming
+- 💻 Build Real-World Projects
+- 🌐 Learn Full Stack Development
+- 🏆 Crack SSC CHSL
 
-⭐ Thanks for visiting my profile!
+---
+
+# 📚 Currently Learning
+
+- Python
+- Git & GitHub
+- Object-Oriented Programming (Next)
+- SQL (Next)
+
+---
+
+## ⭐ Thank You
+
+Thank you for visiting my repository.
+
+I’m continuously learning, building projects, and improving my programming skills.
+
+⭐ If you like my work, consider starring this repository.
+
+Happy Coding! 🚀
