@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MAHESHBABU DOPARTHI
+# 👋 Hi, I'm Mahesh babu Doparthi
 
 ## 🎓 About Me
 
