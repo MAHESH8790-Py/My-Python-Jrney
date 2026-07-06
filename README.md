@@ -1,2 +1,2 @@
 # Python 25 Projects
-Learning Python programming Skills
+My journey of learning Python through 25 hands-on projects.
