@@ -28,8 +28,11 @@
 ✔️ Quiz Game  
 ✔️ Expense Tracker  
 ✔️ Student Grade Management System  
+✔️ Rock paper scissors game
+✔️ To do list
+✔️ Employ id creation
 
-📌 Total Projects Completed: **25 Python Projects**
+📌 Learning Python Through Hands-on Projects
 
 ---
 
