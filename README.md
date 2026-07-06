@@ -1,7 +1,7 @@
 # 👋 Hi, I'm MAHESHBABU DOPARTHI
 
 🎓 B.Tech CSE (AI) Student
-🐍 Python Developer (Beginner to Intermediate)
+ Python Developer (Beginner to Intermediate)
 💻 Passionate about Programming and Problem Solving
 🎯 Preparing for improving my coding skills
 
